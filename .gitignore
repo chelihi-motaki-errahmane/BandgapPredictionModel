@@ -67,3 +67,7 @@ Thumbs.db
 .idea/
 *.swp
 *.swo
+
+data_chunks/*
+
+!data_chunks/.gitkeep
